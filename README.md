@@ -13,4 +13,4 @@ Working on responsive layout and feeling frustrated and confused like you want t
 + [Responsive Type](http://jsfiddle.net/flatiron_school/H6cN5/)
 + [Simple Responsive Layout](http://jsfiddle.net/flatiron_school/jERBH/)
 + [Column Count & Media Queries](http://jsfiddle.net/4dgaurav/vy43K/3/)
-<a href='https://learn.co/lessons/hs-responsive-layout-resources' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-responsive-layout-resources' title='Responsive Layout Resources'>Responsive Layout Resources</a> on Learn.co and start learning to code for free.</p>
